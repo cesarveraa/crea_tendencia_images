@@ -3,5 +3,4 @@ uvicorn[standard]
 python-dotenv
 pillow
 firebase-admin
-dotenv
-python_multipart
+python-multipart
